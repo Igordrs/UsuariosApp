@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsuariosApp.API", "UsuariosApp.API\UsuariosApp.API.csproj", "{267BA523-86EA-4EBB-9575-436CD0308B36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsuariosApp.Tests", "UsuariosApp.Tests\UsuariosApp.Tests.csproj", "{9351EC63-88DB-443E-A9FA-0213E50BBECB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{267BA523-86EA-4EBB-9575-436CD0308B36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{267BA523-86EA-4EBB-9575-436CD0308B36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{267BA523-86EA-4EBB-9575-436CD0308B36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{267BA523-86EA-4EBB-9575-436CD0308B36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9351EC63-88DB-443E-A9FA-0213E50BBECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9351EC63-88DB-443E-A9FA-0213E50BBECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9351EC63-88DB-443E-A9FA-0213E50BBECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9351EC63-88DB-443E-A9FA-0213E50BBECB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {394AFEA3-84A7-4841-BF06-D240D1B34B8C}
+	EndGlobalSection
+EndGlobal
